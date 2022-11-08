@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "6eddf649768169d09a3706074126606e",
 # 模板消息id
-"template_id": "5T6Up7XrqsYXiEo5ANJj0puozXNcclNO4n3yu044ERI",
+"template_id": "78qgFTyFt7saiGeIhxyScy0_sTyIr4w17CMTKYrcqAM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oxkdd5lDyLvoHWZ2Hxo2_7HqbzRw","oxkdd5ikZkKFjixgBVKiChjRoSag"],
+"user": ["oxkdd5lDyLvoHWZ2Hxo2_7HqbzRw","oxkdd5nniC9R9Mcg5LQhnv7fxkZY"],
  
 # 信息配置
 # 和风天气apikey
@@ -17,11 +17,11 @@
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "小王同学", "birthday": "r2001-07-03"},
 # 生日2
-"birthday2": {"name": "小刘同学", "birthday": "r2004-03-02"},
+"birthday2": {"name": "小谢同学", "birthday": "r2002-06-21"},
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2022-09-21",
+"love_date": "",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "天气转凉了一戒脱衣二戒冷饮三戒冲凉四戒生冷五戒吹风六戒挑食七戒饮食过度辛辣八戒你记住了吗？",
+"note_ch": "",
 # 金句英文
 "note_en": ""
 }
